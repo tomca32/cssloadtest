@@ -1,5 +1,5 @@
 (function() {
-  console.log("I R SOME SCRIPT " + Date.now());
+  console.log("Javascript executed now, " + Date.now());
 })();
 
 function clr() {
